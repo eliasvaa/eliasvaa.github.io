@@ -3,9 +3,8 @@ logo: /assets/Unity_HQizNTUFB7.png
 remote_theme: pages-themes/minimal@v0.2.0
 github_username : eliasvaa
 url: eliasvaa.github.io
-baseurl: ""
 plugins:
 - jekyll-remote-theme 
 
 head:
-- <link rel="stylesheet"  href="{{ site.baseurl }}/assets/style.css">
+- <link rel="stylesheet"  href="/assets/style.css">
