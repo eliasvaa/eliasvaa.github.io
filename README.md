@@ -57,14 +57,14 @@
   <div class="skill">
     <div class="skill-title"> English </div>
     <div class="skill-bar"></div>
-    <div class="html skill-fill">
+    <div class="css skill-fill">
       <span class="skill-percent"> 95% </span>
     </div>
   </div>
   <div class="skill">
     <div class="skill-title"> Swedish </div>
     <div class="skill-bar"></div>
-    <div class="html skill-fill">
+    <div class="js skill-fill">
       <span class="skill-percent"> 70% </span>
     </div>
   </div>
