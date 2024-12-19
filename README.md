@@ -47,16 +47,13 @@
 
 <div class="skill">
     <h1>Languages</h1>
-        <li>
-            <h3>Finnish</h3>
+        <li><h3>Finnish</h3>
             <span class="bar"><span class="Fin"></span></span>
         </li>
-        <li>
-            <h3>English</h3>
+        <li>      <h3>English</h3>
             <span class="bar"><span class="Eng"></span></span>
         </li>
-        <li>
-            <h3>Swedish</h3>
+        <li><h3>Swedish</h3>
             <span class="bar"><span class="Swe"></span></span>
         </li>
 </div>
