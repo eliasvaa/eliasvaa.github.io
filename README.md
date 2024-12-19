@@ -2,7 +2,7 @@
 - h
 
 # Projects & Experience
-<p style="color: darkgray"> 
+<p> 
 - Developed a functional and challenging PVE tank shooter<br>
 - Tank City is fully functional and playable on Itch.io.
 </p>
@@ -37,7 +37,7 @@
     </div>
 </div>
 # Education
-<p style="color: gray"> 
+<p> 
 - Second year student at Metropolia University of Applied Sciences. Specializing in Information and Communication Technology. 
 </p>
 
