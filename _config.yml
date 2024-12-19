@@ -5,3 +5,6 @@ github_username : eliasvaa
 url: eliasvaa.itch.io
 plugins:
 - jekyll-remote-theme 
+
+head:
+- <link rel="stylesheet" href="/assets/style.css">
