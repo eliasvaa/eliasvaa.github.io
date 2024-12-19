@@ -2,7 +2,8 @@ title: Elias Vaara
 logo: /assets/Unity_HQizNTUFB7.png
 remote_theme: pages-themes/minimal@v0.2.0
 github_username : eliasvaa
-url: eliasvaa.itch.io
+url: eliasvaa.github.io
+baseurl: ""
 plugins:
 - jekyll-remote-theme 
 
