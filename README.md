@@ -45,20 +45,27 @@
 
 ## Programming Languages
 
-<div class="skill">
-    <h1>Languages</h1>
-    <ul>
-        <li>
-            <h3>Finnish</h3>
-            <span class="bar"><span class="Fin"></span></span>
-        </li>
-        <li>
-            <h3>English</h3>
-            <span class="bar"><span class="Eng"></span></span>
-        </li>
-        <li>
-            <h3>Swedish</h3>
-            <span class="bar"><span class="Swe"></span></span>
-        </li>
-    </ul>
+<h1> Languages </h1>
+<div class="skills-area">
+  <div class="skill">
+    <div class="skill-title"> Finnish </div>
+    <div class="skill-bar"></div>
+    <div class="html skill-fill">
+      <span class="skill-percent"> 95% </span>
+    </div>
+  </div>
+  <div class="skill">
+    <div class="skill-title"> English </div>
+    <div class="skill-bar"></div>
+    <div class="html skill-fill">
+      <span class="skill-percent"> 95% </span>
+    </div>
+  </div>
+  <div class="skill">
+    <div class="skill-title"> Swedish </div>
+    <div class="skill-bar"></div>
+    <div class="html skill-fill">
+      <span class="skill-percent"> 70% </span>
+    </div>
+  </div>
 </div>
