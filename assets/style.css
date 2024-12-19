@@ -36,75 +36,96 @@ body{
   margin-right: 20px;
 }
 
-h2{
-  text-align: center;
+h1 {
+ text-align: center;
+ margin-top: 40px;
+ font-size: 80px;
 }
 
-h3{
-  margin: 5px;
+.skills-area{
+ display: flex;
+ flex-direction: column;
+ padding: 0 20%;
 }
 
 .skill {
-    width: 500px;
-    margin: 60px auto;
-    color: #fff;
-    padding: 20px;
-    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+ position: relative;
+ margin-bottom: 40px;
 }
 
-.skill ul {
-    list-style: none; 
-    padding: 0;
+.skill-title{
+ font-size: 40px;
+ margin-bottom: 10px;
 }
 
-.skill li {
-    margin: 20px 0;
-    padding: 10px;
+.skill-bar {
+ width: 100%;
+ background: #fff;
+ height: 40px;
+ z-index: -1;
+ border-radius: 100px;
+ position: absolute;
 }
 
-.bar {
-    background: #353b48;
-    display: block;
-    height: 20px;
-    border: 1px solid rgba(0, 0, 0, 0.3);
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+.skill-fill {
+ background: linear-gradient(135deg, rgba(236, 0, 140, 1) 0%, rgba(252, 103, 103, 1);
+ height: 40px;
+ border-radius: 100px;
+ display: flex;
+ justify-content: flex-end;
+ align-items: center;
+ padding-right: 30px;
+ overflow: hidden;
 }
 
-.bar span {
-    height: 20px;
-    float: left;
-    background: linear-gradient(135deg, rgba(236, 0, 140, 1) 0%, rgba(252, 103, 103, 1) 100%);
+.skill-percent{
+ font-size: 30px;
 }
 
-.Fin {
-    width: 95%;
-    animation: expandFin 3s;
+.html {
+ animation: html 2s;
+ width: 50%;
 }
 
-.Eng {
-    width: 95%;
-    animation: expandEng 3s;
+.css {
+ animation: css 2s;
+ width: 80%;
 }
 
-.Swe {
-    width: 70%;
-    animation: expandSwe 3s;
+.js{
+ animation: js 2s;
+ width: 70%;
 }
 
-@keyframes expandFin {
-    0% { width: 0%; }
-    100% { width: 95%; }
+@keyframes html{
+ from {
+  width: 0;
+ }
+ to {
+  width: 50%;
+ }
 }
 
-@keyframes expandEng {
-    0% { width: 0%; }
-    100% { width: 95%; }
+@keyframes css{
+ from {
+  width: 0;
+ }
+ to {
+  width: 80%;
+ }
 }
 
-@keyframes expandSwe {
-    0% { width: 0%; }
-    100% { width: 70%; }
+@keyframes js{
+ from {
+  width: 0;
+ }
+ to {
+  width: 70%;
+ }
 }
+
+
+ 
+                            
+
+
