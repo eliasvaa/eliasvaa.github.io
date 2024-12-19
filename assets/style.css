@@ -2,6 +2,10 @@ body{
  background-color: #2f074d
 }
 
+p{
+ color: red
+}
+
 .container {
       display: flex; 
       justify-content: space-around;
