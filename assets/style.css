@@ -1,4 +1,8 @@
- .container {
+body{
+ background-color: #2f074d
+}
+
+.container {
       display: flex; 
       justify-content: space-around;
       flex-wrap: wrap;
