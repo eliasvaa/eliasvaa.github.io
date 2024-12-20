@@ -337,14 +337,14 @@ h3 {
 .container {
     display: flex;
     flex-wrap: wrap;
-    gap: 200px 20px;
+    gap: 120px 20px;
     justify-content: space-between;
     height: 600px;
   }
 
 .Projs{
-  width: 220px;
-  height: 140px;
+  width: 280px;
+  height: 190px;
   text-align: center;
 }
 
