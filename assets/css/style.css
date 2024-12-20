@@ -339,7 +339,7 @@ h3 {
     flex-wrap: wrap;
     gap: 60px 20px;
     justify-content: space-between;
-    height: 620px;
+    height: 700px;
   }
 
 .Projs{
@@ -402,7 +402,7 @@ h3 {
 
 
 .Cplusplus {
-    width: 75%:
+    width: 75%;
     animation: expandCpp 3s;
 }
 
