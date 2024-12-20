@@ -367,7 +367,7 @@ h3 {
 
 .skill {
     width: 260px;
-    margin: 5px auto;
+    margin: 10px 5px;
     color: #a89eb5;
     padding: 5px;
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
