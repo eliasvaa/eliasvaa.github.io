@@ -1,10 +1,10 @@
 # Introduction
 <p>
-Hello! I'm Elias, a fledgling game and software developer with a strong passion for discovery, storytelling, and learninng. As a developer, I thrive on designing systems and narratives that captivate the user's mind. What I aspire to do is lift heavy ideas and bring them to life. 
+Hello! I'm Elias, a fledgling game and software developer with a strong passion for discovery, storytelling, and learninng. As a developer, I thrive on designing systems and narratives that captivate the user's mind. What I aspire to do is lift heavy ideas and bring them to life. <br>
 
-Aiming to merge my creativity with technical skills, creating engaging and inspiring projects is more than just a career goal - It's something deeply personal and dear to my heart. Just as I have been inspired by technology and stories, I dream of creating interesting concepts that inspire others and leave a lasting impact. 
+Aiming to merge my creativity with technical skills, creating engaging and inspiring projects is more than just a career goal - It's something deeply personal and dear to my heart. Just as I have been inspired by technology and stories, I dream of creating interesting concepts that inspire others and leave a lasting impact. <br>
 
-My curiosity towards programming languages also extends to regular old speaking languages, too. As a fluent speaker of both English and Finnish, I aim to participate in thought-provoking and enriching conversations using both languages. I am currently delving into Swedish, hoping to add it to my repertoire. Delving into its nuances helps me connect with a larger community as well as deepens my appreciation for complex languages themselves.
+My curiosity towards programming languages also extends to regular old speaking languages, too. As a fluent speaker of both English and Finnish, I aim to participate in thought-provoking and enriching conversations using both languages. I am currently delving into Swedish, hoping to add it to my repertoire. Delving into its nuances helps me connect with a larger community as well as deepens my appreciation for complex languages themselves. <br>
   
 </p>
 
