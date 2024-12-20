@@ -316,7 +316,7 @@ body {
 
 h1,h2,h3,h4,h5,h6 {
     color: #222;
-    margin: 0 0 20px
+    margin: 0 0 12px
 }
 
 p,ul,ol,table,pre,dl {
@@ -329,11 +329,11 @@ h1,h2,h3 {
 
 h1 {
     font-size: 23px
-    margin: 0 0 10px;
 }
 
 h2 {
     color: #393939
+    
 }
 
 h3 {
@@ -370,7 +370,7 @@ h3 {
 
 .skill {
     width: 260px;
-    margin: 10px 5px;
+    margin: 10px 0px;
     color: #a89eb5;
     padding: 0px;
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
@@ -409,7 +409,7 @@ h3 {
 }
 
 .CS {
-    width: 83%;
+    width: 86%;
     animation: expandCs 3s;
 }
 
@@ -450,7 +450,7 @@ h3 {
 
 @keyframes expandCs {
     0% { width: 0%; }
-    100% { width: 83%; }
+    100% { width: 86%; }
 }
 
 @keyframes expandHtml {
@@ -489,7 +489,7 @@ a:hover small {
 }
 
 .wrapper {
-    width: 860px;
+    width: 700px;
     margin: 0 auto
 }
 
