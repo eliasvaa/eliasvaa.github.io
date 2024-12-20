@@ -350,7 +350,8 @@ h3 {
   display: inline-block; 
   border: 1px solid gray;
   margin: 5px;
-  width: 125px;
+  width: 150px;
+  height: 92px;
 }
 
 .Projs .desc1{
@@ -364,14 +365,14 @@ h3 {
 
 .Projs img{
   width: 100%;
-  height: auto;
+  height: 100%;
 }
 
 .skill {
     width: 260px;
     margin: 10px 5px;
     color: #a89eb5;
-    padding: 5px;
+    padding: 0px;
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
