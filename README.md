@@ -12,7 +12,7 @@ My curiosity towards programming languages extends to regular old speaking langu
 <br>  
 
 
-# Education
+<h1> Education </h1>
 <p> 
 Currently enrolled as a Second Year student at Metropolia University of Applied Sciences, studying Information and Communication technology. During my stay at Metropolia, I have been given countless opportunities to create & bring to life fascinating concepts, be it in code, writing or conceptual design. 
 
