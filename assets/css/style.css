@@ -517,7 +517,7 @@ a:hover small {
 }
 
 .wrapper {
-    width: 1000px;
+    width: 1150px;
     margin: 0 auto
 }
 
@@ -651,7 +651,7 @@ section {
     width: 800px;
     float: right;
     padding-bottom: 50px
-    margin-left: 60%;
+    margin-right: 100px;
 }
 
 small {
