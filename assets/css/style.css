@@ -307,7 +307,7 @@
 }
 
 body {
-    background-color: #fff;
+    background-color: #7a7272;
     padding: 50px;
     font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #727272;
@@ -368,7 +368,7 @@ h3 {
 .skill {
     width: 260px;
     margin: 20px auto;
-    color: #877f7f;
+    color: #7a7272;
     padding: 5px;
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
