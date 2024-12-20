@@ -42,8 +42,8 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
     <h2>Website</h2>
     <a target="_blank" href="https://users.metropolia.fi/~eliasvaa/htmlproj/home.html">
       <img src="assets/chrome_hUTA1tg5Ha.png" alt="HTML Project">
+      <div class="image"></div>
     </a>
-        <div class="image"></div>
     <div class="desc1">HTML project created during year 1</div>
   </div>
 
