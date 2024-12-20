@@ -340,10 +340,10 @@ h3 {
     margin: 8px;
 }
 .container {
-    display: flex; 
-    justify-content: space-around;
-    flex-wrap: wrap;
-    gap: 15px; 
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
   }
 
 .Projs{
@@ -489,7 +489,7 @@ a:hover small {
 }
 
 .wrapper {
-    width: 700px;
+    width: 950px;
     margin: 0 auto
 }
 
