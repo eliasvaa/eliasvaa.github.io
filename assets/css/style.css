@@ -356,33 +356,6 @@ h2 {
   color: #333;
 }
 
-.Projs:hover{
-  background: #018185ad;
-  border: 1px solid hsl(0, 0, 20%);
-  opacity: 1;
-  transition: all ease .5s;
-  -webkit-transition: all ease .5s;
-  -moz-transition: all ease .5s
-}
-
-
-.Projs:hover::after {
-  opacity: 1; 
-}
-
-.Projs::after {
-  content: ''; 
-  position: absolute;
-  top: 120px;
-  left: 0;
-  width: 100%;
-  height: 80%; 
-  background: rgba(1, 129, 133, 0.67); 
-  z-index: 2; 
-  opacity: 0;
-  transition: opacity 0.5s ease; 
-}
-
 .Projs img{
   display: block;
   width: 100%;
@@ -392,6 +365,16 @@ h2 {
   z-index: 1;
   object-fit: cover;
 }
+
+.Projs img::hover{
+  background: #018185ad;
+  border: 1px solid hsl(0, 0, 20%);
+  opacity: 1;
+  transition: all ease .5s;
+  -webkit-transition: all ease .5s;
+  -moz-transition: all ease .5s
+}
+
 
 .skill {
     width: 260px;
