@@ -343,7 +343,7 @@ h3 {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 400px;
+    width: 550px;
   }
 
 .Projs{
@@ -372,7 +372,7 @@ h3 {
     width: 260px;
     margin: 10px 0px;
     color: #a89eb5;
-    padding: 0px;
+    padding: 0px 5px;
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
@@ -399,6 +399,7 @@ h3 {
 .bar span {
     height: 12px;
     float: left;
+    padding: 5px 0;
     background: linear-gradient(135deg, rgba(236, 0, 140, 1)0%, rgba(252, 103, 103, 1)100%);
 }
 
