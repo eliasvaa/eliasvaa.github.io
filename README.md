@@ -11,28 +11,28 @@
   <h2> Tank City </h2>
     <div class="Projs">
         <a target="_blank" href="https://eliasvaa.itch.io/tank-city">
-        <img src="assets/Unity_qUi4ZjSIYS.png" width=200px  alt="tankCity">
+        <img src="assets/Unity_qUi4ZjSIYS.png" alt="tankCity">
         </a>
         <div class="desc1"> Tank City </div>   
     </div>
   
   <h2> Heart Monitor </h2>
    <div class="Projs">
-        <img src="assets/istockphoto-172272727-612x612.jpg" width=200px alt="HeartMonitor">
+        <img src="assets/istockphoto-172272727-612x612.jpg" alt="HeartMonitor">
         <div class="desc1"> Heart Monitor </div>   
   </div>
   
   <h2> Website </h2>
   <div class="Projs">
       <a target="_blank" href="https://users.metropolia.fi/~eliasvaa/htmlproj/home.html">
-      <img src="assets/chrome_hUTA1tg5Ha.png" width=200px  alt="HTMLProject">
+      <img src="assets/chrome_hUTA1tg5Ha.png" alt="HTMLProject">
       </a>
       <div class="desc1"> HTML project created during year 1 </div>   
     </div>
   
   <h2> Flight Game </h2>
   <div class="Projs">
-      <img src="assets/chrome_8eooqTXCDX.png" width=200px alt="SQL / Python project">
+      <img src="assets/chrome_8eooqTXCDX.png" alt="SQL / Python project">
         <div class="desc1"> First game Project </div>   
     </div>
 </div>
