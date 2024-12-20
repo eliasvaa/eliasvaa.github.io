@@ -315,7 +315,7 @@ body {
 }
 
 h1 {
-    margin: 12px;
+    margin: 12px 0 12px 0;
 }
 
 h2,h3,h4,h5,h6 {
@@ -367,8 +367,8 @@ h2 {
 }
 
 .image{
-    width: 100.5%;
-    height: 100.5%;
+    width: 101%;
+    height: 101%;
     top: 15%;
     left: 0;
     position: absolute;
@@ -391,7 +391,7 @@ h2 {
 
 .skill h1{
     color: #494949;
-    padding-top: 5px;
+    margin: 5px 0 0 5px;
 }
 .skill li {
     margin: 2px 0;
