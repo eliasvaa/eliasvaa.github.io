@@ -339,7 +339,7 @@ h3 {
     flex-wrap: wrap;
     gap: 120px 20px;
     justify-content: space-between;
-    height: 600px;
+    height: 750px;
   }
 
 .Projs{
@@ -463,6 +463,10 @@ h3 {
 
 h3,h4,h5,h6 {
     color: #494949
+}
+
+p {
+    color: #343342;
 }
 
 a {
