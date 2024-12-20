@@ -348,6 +348,7 @@ h2 {
   height: 210px;
   text-align: center; 
   position: relative;
+  overflow: hidden;
 }
 
 .Projs .desc1{
@@ -360,7 +361,6 @@ h2 {
   background: #018185ad;
   border: 1px solid hsl(0, 0, 20%);
   opacity: 1;
-  height: 80%;
   transition: all ease .5s;
   -webkit-transition: all ease .5s;
   -moz-transition: all ease .5s
@@ -390,6 +390,7 @@ h2 {
   border: 1px solid #ccc;
   border-radius: 5px;
   z-index: 1;
+  object-fit: cover;
 }
 
 .skill {
