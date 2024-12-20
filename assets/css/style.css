@@ -316,7 +316,7 @@ body {
 
 h1,h2,h3,h4,h5,h6 {
     color: #222;
-    margin: 0 0 12px
+    margin: 0 12px 12px
 }
 
 p,ul,ol,table,pre,dl {
@@ -343,15 +343,15 @@ h3 {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 180px;
+    width: 600px;
   }
 
 .Projs{
   display: inline-block; 
   border: 1px solid gray;
   margin: 5px;
-  width: 150px;
-  height: 92px;
+  width: 180px;
+  height: 125px;
 }
 
 .Projs .desc1{
@@ -620,7 +620,7 @@ strong {
 }
 
 section {
-    width: 500px;
+    width: 750px;
     float: right;
     padding-bottom: 50px
 }
