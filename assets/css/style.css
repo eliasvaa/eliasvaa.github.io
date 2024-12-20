@@ -375,6 +375,7 @@ h2 {
     background:rgba(0,0,0,0.6);
     opacity:0;
     transition: 0.6s;
+    z-index: 2;
 }
 .image::hover{
     opacity:1;
