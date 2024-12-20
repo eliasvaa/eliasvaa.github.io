@@ -358,9 +358,11 @@ h2 {
 .Projs:hover{
   background: #018185ad;
   border: 1px solid hsl(0, 0, 20%);
+  opacity: 0;
   transition: all ease .5s;
   -webkit-transition: all ease .5s;
    -moz-transition: all ease .5s
+
 }
 
 .Projs img{
@@ -378,6 +380,9 @@ h2 {
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
+.skill h1{
+    color: red;
+}
 .skill li {
     margin: 2px 0;
     padding: 5px;
