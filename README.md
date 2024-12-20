@@ -23,39 +23,35 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
 
 <div class="container">
   <div class="Projs">
-    <div class="image">
     <h2>Tank City</h2>
     <a target="_blank" href="https://eliasvaa.itch.io/tank-city">
       <img src="assets/Unity_qUi4ZjSIYS.png" alt="Tank City">
+      <div class="image"></div>
     </a>
-    </div>
     <div class="desc1">Tank City</div>
   </div>
 
   <div class="Projs">
     <h2>Heart Monitor</h2>
-    <div class="image">
     <img src="assets/istockphoto-172272727-612x612.jpg" alt="Heart Monitor">
+    <div class="image"></div>
     <div class="desc1">Heart Monitor</div>
-    </div>
   </div>
 
   <div class="Projs">
     <h2>Website</h2>
-    <div class="image">
     <a target="_blank" href="https://users.metropolia.fi/~eliasvaa/htmlproj/home.html">
       <img src="assets/chrome_hUTA1tg5Ha.png" alt="HTML Project">
     </a>
+        <div class="image"></div>
     <div class="desc1">HTML project created during year 1</div>
-    </div>
   </div>
 
   <div class="Projs">
     <h2>Flight Game</h2>
-    <div class="image">
     <img src="assets/chrome_8eooqTXCDX.png" alt="Flight Game">
     <div class="desc1">First game Project</div>
-    </div>
+    <div class="image"></div>
   </div>
 </div>
 
