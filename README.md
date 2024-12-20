@@ -10,7 +10,7 @@ Aiming to merge my creativity with technical skills, creating engaging and inspi
 <br>
 
 <p>
-My curiosity towards programming languages also extends to regular old speaking languages, too. As a fluent speaker of both English and Finnish, I aim to participate in thought-provoking and enriching conversations using both languages. I am currently delving into Swedish, hoping to add it to my repertoire. Delving into its nuances helps me connect with a larger community as well as deepens my appreciation for complex languages themselves. </p>
+My curiosity towards programming languages extends to regular old speaking languages, too. As a fluent speaker of both English and Finnish, I aim to participate in thought-provoking and enriching conversations using both languages. I am currently delving into Swedish, hoping to add it to my repertoire. Delving into its nuances helps me connect with a larger community as well as deepens my appreciation for complex languages themselves. </p>
 
 <br>  
 
