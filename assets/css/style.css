@@ -340,16 +340,17 @@ h3 {
     margin: 8px;
 }
 .container {
-      display: flex; 
-      justify-content: space-around;
-      flex-wrap: wrap;
-      gap: 20px; 
+    display: flex; 
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 15px; 
   }
 
 .Projs{
   display: inline-block; 
   border: 1px solid gray;
   margin: 5px;
+  width: 125px;
 }
 
 .Projs .desc1{
