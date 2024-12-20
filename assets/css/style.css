@@ -307,7 +307,7 @@
 }
 
 body {
-    background-color: #7a7272;
+    background-color: #a89eb5;
     padding: 50px;
     font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #727272;
@@ -368,7 +368,7 @@ h3 {
 .skill {
     width: 260px;
     margin: 20px auto;
-    color: #7a7272;
+    color: #a89eb5;
     padding: 5px;
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
@@ -579,10 +579,13 @@ kbd {
 }
 
 header {
-    width: 270px;
+    width: 350px;
     float: left;
     position: fixed;
-    -webkit-font-smoothing: subpixel-antialiased
+    -webkit-font-smoothing: subpixel-antialiased;
+    margin-left: 0;
+    padding: 0;
+    
 }
 
 ul.downloads {
