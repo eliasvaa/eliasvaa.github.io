@@ -328,7 +328,7 @@ h1,h2,h3 {
 }
 
 h1 {
-    font-size: 28px
+    font-size: 23px
 }
 
 h2 {
@@ -363,7 +363,7 @@ h2 {
 }
 
 .skill {
-    width: 200px;
+    width: 260px;
     margin: 60px auto;
     color: #fff;
     padding: 20px;
@@ -409,6 +409,66 @@ h2 {
 .Swe {
     width: 70%;
     animation: expandSwe 3s;
+}
+
+.C++ {
+    width: 75%:
+    animation: expandCpp 3s;
+}
+
+.C# {
+    width: 83%;
+    animation: expandCs 3s;
+}
+
+.Python {
+    width: 75%;
+    animation: expandPy 3s;
+}
+
+.JS {
+    width: 70%;
+    animation: expandJS 3s;
+}
+
+.Html & CSS {
+    width: 80%;
+    animation: expandHtml 3s;
+}
+
+.SQL {
+    width: 70%;
+    animation: expandSQL 3s;
+}
+
+@keyframes expandCpp {
+    0% { width: 0%; }
+    100% { width: 75%; }
+}
+
+@keyframes expandPy {
+    0% { width: 0%; }
+    100% { width: 75%; }
+}
+
+@keyframes expandJS {
+    0% { width: 0%; }
+    100% { width: 70%; }
+}
+
+@keyframes expandCs {
+    0% { width: 0%; }
+    100% { width: 83%; }
+}
+
+@keyframes expandHtml {
+    0% { width: 0%; }
+    100% { width: 80%; }
+}
+
+@keyframes expandSQL {
+    0% { width: 0%; }
+    100% { width: 70%; }
 }
 
 @keyframes expandFin {
