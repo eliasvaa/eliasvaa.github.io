@@ -337,8 +337,9 @@ h3 {
 .container {
     display: flex;
     flex-wrap: wrap;
-    gap: 50px 20px;
+    gap: 200px 20px;
     justify-content: space-between;
+    height: 600px;
   }
 
 .Projs{
