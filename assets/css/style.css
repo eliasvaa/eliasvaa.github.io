@@ -335,6 +335,9 @@ h2 {
     color: #393939
 }
 
+h3 {
+    margin: 8px;
+}
 .container {
       display: flex; 
       justify-content: space-around;
