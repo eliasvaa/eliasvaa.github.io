@@ -343,7 +343,7 @@ h3 {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 600px;
+    width: 400px;
   }
 
 .Projs{
@@ -489,7 +489,7 @@ a:hover small {
 }
 
 .wrapper {
-    width: 800px;
+    width: 850px;
     margin: 0 auto
 }
 
@@ -620,7 +620,7 @@ strong {
 }
 
 section {
-    width: 750px;
+    width: 600px;
     float: right;
     padding-bottom: 50px
 }
