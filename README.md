@@ -1,11 +1,10 @@
 # Introduction
-- h
+<p>
+
+  
+</p>
 
 # Projects & Experience
-<p> 
-- Developed a functional and challenging PVE tank shooter<br>
-- Tank City is fully functional and playable on Itch.io.
-</p>
 
 <div class="container">
   <div class="Projs">
