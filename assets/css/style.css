@@ -583,7 +583,6 @@ header {
     float: left;
     position: fixed;
     -webkit-font-smoothing: subpixel-antialiased;
-    margin-left: 0;
     padding: 0;
     
 }
