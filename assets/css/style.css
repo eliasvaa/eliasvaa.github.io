@@ -373,10 +373,10 @@ h2 {
 .Projs::after {
   content: ''; 
   position: absolute;
-  top: 25%;
+  top: 22%;
   left: 0;
   width: 100%;
-  height: 85%; 
+  height: 40%; 
   background: rgba(1, 129, 133, 0.67); 
   z-index: 2; 
   opacity: 0;
@@ -386,7 +386,7 @@ h2 {
 .Projs img{
   display: block;
   width: 100%;
-  height: 90%;
+  height: 100%;
   border: 1px solid #ccc;
   border-radius: 5px;
   z-index: 1;
