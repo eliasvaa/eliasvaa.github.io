@@ -34,7 +34,6 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
   <div class="Projs">
     <h2>Heart Monitor</h2>
     <img src="assets/istockphoto-172272727-612x612.jpg" alt="Heart Monitor">
-    <div class="image"></div>
     <div class="desc1">Heart Monitor</div>
   </div>
 
@@ -50,7 +49,6 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
   <div class="Projs">
     <h2>Flight Game</h2>
     <img src="assets/chrome_8eooqTXCDX.png" alt="Flight Game">
-    <div class="desc1">First game Project</div>
     <div class="image"></div>
   </div>
 </div>
