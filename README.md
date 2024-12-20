@@ -1,4 +1,5 @@
 # Introduction
+<div class=texti>
 <p>
 Hello! I'm Elias, a fledgling game and software developer with a strong passion for discovery, storytelling, and learninng. As a developer, I thrive on designing systems and narratives that captivate the user's mind. What I aspire to do is lift heavy ideas and bring them to life. </p>
 
@@ -17,7 +18,7 @@ Currently enrolled as a Second Year student at Metropolia University of Applied 
 
 Honorably completed courses in both Math and Physics,  demonstrating an understanding of the foundations and principles that support logical thinking as well as problem-solving - Both vital skills that I have learned to apply to my programming work.
 </p>
-
+</div>
 # Projects & Experience
 
 <div class="container">
