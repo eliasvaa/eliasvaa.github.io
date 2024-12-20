@@ -314,9 +314,9 @@ body {
     font-weight: 400
 }
 
-h2,h3,h4,h5,h6 {
+h1, h2,h3,h4,h5,h6 {
     color: #222;
-    margin: 0 12px 12px
+    margin: 12px
 }
 
 p,ul,ol,table,pre,dl {
@@ -327,15 +327,8 @@ h1,h2,h3 {
     line-height: 1.1
 }
 
-h1 {
-    font-size: 23px
-    color: #222;
-    margin: 12px;
-}
-
 h2 {
-    color: #393939
-    
+    color: #393939   
 }
 
 h3 {
