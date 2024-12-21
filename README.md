@@ -51,8 +51,8 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
   <div class="Projs">
     <h2>Flight Game</h2>
     <img src="assets/chrome_8eooqTXCDX.png" alt="Flight Game">
-  </div>
   <div class="desc1"> A Python project utilizing SQL databases in order to create a thrilling guessing game of real airports found around the world. </div>
+  </div>
 </div>
 
 
