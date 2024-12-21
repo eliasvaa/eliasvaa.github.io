@@ -373,7 +373,7 @@ h3 {
 .container {
     display: flex;
     flex-wrap: wrap;
-    gap: 75px 20px;
+    gap: 70px 20px;
     justify-content: space-between;
     height: 50%;
     align-items: flex-start;
@@ -386,7 +386,7 @@ h3 {
 
 .Projs{
     width: calc(50% - 42px); 
-    height: 450px; 
+    height: 465px; 
     text-align: center;
     position: relative;
     box-sizing: border-box; 
@@ -658,6 +658,11 @@ header {
     position: fixed;
     -webkit-font-smoothing: subpixel-antialiased;
     
+}
+
+header img{
+    border: 1px solid(0, 0, 0, 0.3);
+    border-radius: 20px;
 }
 
 ul.downloads {
