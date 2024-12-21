@@ -17,7 +17,8 @@ My curiosity towards programming languages extends to regular old speaking langu
 <h1> Education </h1>
 <p> 
 Currently enrolled as a Second Year student at Metropolia University of Applied Sciences, studying Information and Communication technology. During my stay at Metropolia, I have been given countless opportunities to create & bring to life fascinating concepts, be it in code, writing or conceptual design. 
-
+</p>
+<p>
 Honorably completed courses in both Math and Physics,  demonstrating an understanding of the foundations and principles that support logical thinking as well as problem-solving - Both vital skills that I have learned to apply to my programming work.
 </p>
 </div>
