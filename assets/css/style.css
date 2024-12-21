@@ -342,10 +342,6 @@ body {
     font-weight: 400
 }
 
-.nimi h1{
-    text-align: left;
-}
-
 h1 {
     margin: 12px 0 16px 0;
     font-family: 'Titillium Web', sans-serif;
@@ -353,7 +349,7 @@ h1 {
     font-weight: 600;
     font-style: normal;
     color: #B8D8D8;
-    text-align: center;
+    text-align: left;
 }
 
 h3,h4,h5,h6 {
@@ -552,6 +548,7 @@ h3 {
 .texti h1{
     margin: 12px 0 12px 10px;
     font-size: 24px;
+    text-align: center;
 }
 
 p {
