@@ -376,6 +376,7 @@ h3 {
     gap: 80px 20px;
     justify-content: space-between;
     height: 815px;
+    align-items: flex-start;
   }
 
 .container h2{
@@ -384,12 +385,12 @@ h3 {
 }
 
 .Projs{
-  width: 340px;
-  height: 245px;
-  text-align: center; 
-  position: relative;
+    width: calc(33.33% - 20px); 
+    height: auto; 
+    text-align: center;
+    position: relative;
+    box-sizing: border-box; 
 }
-
 .Projs .desc1{
   font-size: 14px;
   color: #D9E4E0;
