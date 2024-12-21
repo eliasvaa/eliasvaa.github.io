@@ -373,9 +373,9 @@ h3 {
 .container {
     display: flex;
     flex-wrap: wrap;
-    gap: 80px 60px;
+    gap: 75px 60px;
     justify-content: space-between;
-    height: 850px;
+    height: 875px;
     align-items: flex-start;
   }
 
