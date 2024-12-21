@@ -345,9 +345,10 @@ body {
 h1 {
     margin: 12px 0 12px 0;
     font-family: 'Titillium Web', sans-serif;
+    font-size: 24px;
     font-weight: 600;
     font-style: normal;
-    color: #D9E4E0;
+    color: #B8D8D8;
 }
 
 h3,h4,h5,h6 {
@@ -363,10 +364,6 @@ h1,h2,h3 {
     line-height: 1.1
 }
 
-h2 {
-    color: #BDC3C7  
-    margin: 15px 0 0 0;
-}
 
 h3 {
     color: #F0F4F8
@@ -390,7 +387,10 @@ h3 {
 .Projs .desc1{
   margin-top: 10px;
   font-size: 14px;
-  color: #B8D8D8;
+  color: #D9E4E0;
+  font-family: "Open Sans", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .Projs img{
@@ -399,6 +399,11 @@ h3 {
   height: 100%;
   z-index: 1;
   object-fit: cover;
+}
+
+.Projs h2{
+    color: #BDC3C7  
+    margin: 15px 0 0 0;
 }
 
 .image{
@@ -528,7 +533,7 @@ h3 {
 p {
     color: #F0F4F8;
     font-family: "Open Sans", serif;
-    font-weight: 300;
+    font-weight: 400;
     font-style: normal;
 }
 
