@@ -25,16 +25,18 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
   <div class="Projs">
     <h2>Tank City</h2>
     <a target="_blank" href="https://eliasvaa.itch.io/tank-city">
-      <img src="assets/Unity_qUi4ZjSIYS.png" alt="Tank City">
+      <img src="assets/ezgif-3-d4bb78912f.gif" alt="Tank City">
       <div class="image"></div>
     </a>
-    <div class="desc1">Tank City</div>
+    <div class="desc1"> Challenging and entertaining 2D Tank Shooter where the players must eliminate enemy tank controlled by 
+      advanced artificial intelligence capable of mounting a formidable defense. </div>
   </div>
 
   <div class="Projs">
     <h2>Heart Monitor</h2>
     <img src="assets/istockphoto-172272727-612x612.jpg" alt="Heart Monitor">
-    <div class="desc1">Heart Monitor</div>
+    <div class="desc1"> Fully functional and accurate device programmed using a Raspberry Pi Pico, MicroPython and MQTT. Able to 
+      read not only the user's heart rate, but HRV, SSDN and RMSSD values. </div>
   </div>
 
   <div class="Projs">
@@ -43,7 +45,7 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
       <img src="assets/chrome_hUTA1tg5Ha.png" alt="HTML Project">
       <div class="image"></div>
     </a>
-    <div class="desc1">HTML project created during year 1</div>
+    <div class="desc1"> A simple HTML website consisting of three unique pages</div>
   </div>
 
   <div class="Projs">
@@ -51,6 +53,7 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
     <img src="assets/chrome_8eooqTXCDX.png" alt="Flight Game">
     <div class="image"></div>
   </div>
+  <div class="desc1"> A Python project utilizing SQL databases in order to create a thrilling guessing game of real airports found around the world. 
 </div>
 
 
