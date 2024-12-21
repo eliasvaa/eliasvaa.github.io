@@ -375,7 +375,7 @@ h3 {
     flex-wrap: wrap;
     gap: 80px 60px;
     justify-content: space-between;
-    height: 815px;
+    height: 835px;
     align-items: flex-start;
   }
 
@@ -385,7 +385,7 @@ h3 {
 }
 
 .Projs{
-    width: calc(50% - 60px); 
+    width: calc(50% - 42px); 
     height: 275px; 
     text-align: center;
     position: relative;
@@ -424,7 +424,7 @@ h3 {
 .image{
     width: 101%;
     height: 277px;
-    top: 20%;
+    top: 18%;
     left: 0;
     position: absolute;
     background:rgba(0,0,0,0.6);
