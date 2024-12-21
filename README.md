@@ -31,7 +31,7 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
       <img src="assets/ezgif-3-d4bb78912f.gif" alt="Tank City">
       <div class="image"></div>
     </a>
-    <div class="desc1"> Challenging and entertaining 2D Tank Shooter where the players must eliminate enemy tank controlled by 
+    <div class="desc2"> Challenging and entertaining 2D Tank Shooter where the players must eliminate enemy tank controlled by 
       advanced artificial intelligence capable of mounting a formidable defense. Playable now on Itch.io via WebGL conversion. </div>
   </div>
 
@@ -48,7 +48,7 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
       <img src="assets/chrome_hUTA1tg5Ha.png" alt="HTML Project">
       <div class="image"></div>
     </a>
-    <div class="desc1"> A simple HTML website consisting of three unique pages</div>
+    <div class="desc2"> A simple HTML website consisting of three unique pages</div>
   </div>
 
   <div class="Projs">
