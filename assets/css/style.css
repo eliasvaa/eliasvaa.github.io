@@ -746,7 +746,7 @@ footer {
 }
 
 .footerText {
-    font-size: 18px;
+    font-size: 14px;
     font-family: "Open Sans", serif;
     font-style: normal;
     font-weight: 500;
@@ -766,6 +766,7 @@ footer {
 
     header {
         padding-right: 320px
+        padding-bottom: 120px;
     }
 
     section {
