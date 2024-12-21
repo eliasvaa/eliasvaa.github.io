@@ -373,9 +373,9 @@ h3 {
 .container {
     display: flex;
     flex-wrap: wrap;
-    gap: 115px 20px;
+    gap: 105px 20px;
     justify-content: space-between;
-    height: 800px;
+    height: 810px;
   }
 
 .container h2{
@@ -398,6 +398,17 @@ h3 {
   font-style: normal;
   height: 105px;
 }
+
+.Projs .desc2{
+  font-size: 14px; 
+  margin-top: -10px;
+  color: #D9E4E0;
+  font-family: "Open Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+  height: 105px;
+}
+
 
 .Projs img{
   display: block;
@@ -435,7 +446,7 @@ h3 {
 }
 
 .skill h1{
-    margin: 10px 0 10px 10px;
+    margin: 10px 0 10px 0px;
 }
 
 .skill li {
