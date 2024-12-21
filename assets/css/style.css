@@ -375,7 +375,7 @@ h3 {
     flex-wrap: wrap;
     gap: 75px 60px;
     justify-content: space-between;
-    height: 60%;
+    height: 50%;
     align-items: flex-start;
   }
 
@@ -386,7 +386,7 @@ h3 {
 
 .Projs{
     width: calc(50% - 42px); 
-    height: 500px; 
+    height: 450px; 
     text-align: center;
     position: relative;
     box-sizing: border-box; 
