@@ -740,9 +740,16 @@ footer {
     width: 270px;
     float: left;
     position: fixed;
-    bottom: 50px;
+    bottom: 10px;
     -webkit-font-smoothing: subpixel-antialiased;
     text-align: center;
+}
+
+.footerText {
+    font-size: 18px;
+    font-family: "Open Sans", serif;
+    font-style: normal;
+    font-weight: 500;
 }
 
 @media print, screen and (max-width: 960px) {
