@@ -62,5 +62,3 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
   </div>
 </div>
 </div>
-
-# Hobbies
