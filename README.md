@@ -21,6 +21,9 @@ Currently enrolled as a Second Year student at Metropolia University of Applied 
 Honorably completed courses in both Math and Physics,  demonstrating an understanding of the foundations and principles that support logical thinking as well as problem-solving - Both vital skills that I have learned to apply to my programming work.
 </p>
 </div>
+
+<br>
+
 <div class="texti">
 <h1> Projects & Experience </h1>
 
