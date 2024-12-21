@@ -350,7 +350,7 @@ h1 {
     color: #D9E4E0;
 }
 
-h2,h3,h4,h5,h6 {
+h3,h4,h5,h6 {
     color: #222;
     margin: 0 0 12px
 }
@@ -364,7 +364,7 @@ h1,h2,h3 {
 }
 
 h2 {
-    color: #F0F4F8   
+    color: #BDC3C7  
     margin: 15px 0 0 0;
 }
 
@@ -375,7 +375,7 @@ h3 {
 .container {
     display: flex;
     flex-wrap: wrap;
-    gap: 150px 20px;
+    gap: 130px 20px;
     justify-content: space-between;
     height: 800px;
   }
@@ -390,7 +390,7 @@ h3 {
 .Projs .desc1{
   margin-top: 10px;
   font-size: 14px;
-  color: #333;
+  color: #B8D8D8;
 }
 
 .Projs img{
