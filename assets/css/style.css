@@ -365,6 +365,7 @@ h1,h2,h3 {
 
 h2 {
     color: #F0F4F8   
+    margin: 15px 0 0 0;
 }
 
 h3 {
@@ -376,7 +377,7 @@ h3 {
     flex-wrap: wrap;
     gap: 150px 20px;
     justify-content: space-between;
-    height: 700px;
+    height: 800px;
   }
 
 .Projs{
@@ -425,7 +426,7 @@ h3 {
 }
 
 .skill h1{
-    margin: 10px 0 10px 5px;
+    margin: 10px 0 10px 10px;
 }
 
 .skill li {
