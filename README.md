@@ -34,7 +34,7 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
 
   <div class="Projs">
     <h2>Heart Monitor</h2>
-    <img src="assets/istockphoto-172272727-612x612.jpg" alt="Heart Monitor">
+    <img src="assets/20221019153401_pico-with-pulse-sensor.webp" alt="Heart Monitor">
     <div class="desc1"> Fully functional and accurate device programmed using a Raspberry Pi Pico, MicroPython and MQTT. Able to 
       read not only the user's heart rate, but HRV, SSDN and RMSSD values. </div>
   </div>
@@ -51,7 +51,6 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
   <div class="Projs">
     <h2>Flight Game</h2>
     <img src="assets/chrome_8eooqTXCDX.png" alt="Flight Game">
-    <div class="image"></div>
   </div>
   <div class="desc1"> A Python project utilizing SQL databases in order to create a thrilling guessing game of real airports found around the world. </div>
 </div>
