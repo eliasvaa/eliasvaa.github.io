@@ -386,7 +386,7 @@ h3 {
 
 .Projs{
     width: calc(50% - 20px); 
-    height: auto; 
+    height: 320px; 
     text-align: center;
     position: relative;
     box-sizing: border-box; 
@@ -423,7 +423,7 @@ h3 {
 
 .image{
     width: 101%;
-    height: 101%;
+    height: 322px;
     top: 20%;
     left: 0;
     position: absolute;
