@@ -392,7 +392,7 @@ h3 {
     box-sizing: border-box; 
     margin: 0, 0, 0, 12px;
     overflow: hidden;
-    padding: 0 20px 0 1px;
+    
 }
 .Projs .desc1{
   font-size: 14px;
@@ -420,7 +420,7 @@ h3 {
   height: 275px;
   z-index: 1;
   object-fit: cover;
-  padding: 0 10 10px 0;
+  padding: 0 10px 10px 0;
 }
 
 
