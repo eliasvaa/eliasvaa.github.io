@@ -29,7 +29,7 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
       <div class="image"></div>
     </a>
     <div class="desc1"> Challenging and entertaining 2D Tank Shooter where the players must eliminate enemy tank controlled by 
-      advanced artificial intelligence capable of mounting a formidable defense. </div>
+      advanced artificial intelligence capable of mounting a formidable defense. Playable now on Itch.io via WebGL conversion. </div>
   </div>
 
   <div class="Projs">
