@@ -342,6 +342,10 @@ body {
     font-weight: 400
 }
 
+.nimi h1{
+    text-align: left;
+}
+
 h1 {
     margin: 12px 0 16px 0;
     font-family: 'Titillium Web', sans-serif;
