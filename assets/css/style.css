@@ -774,35 +774,15 @@ footer {
     }
 }
 
-@media print, screen and (max-width: 720px) {
-    body {
-        word-wrap:break-word
-    }
-
-    header {
-        padding: 0
-    }
-
-    header ul,header p.view {
-        position: static
-    }
-
-    pre,code {
-        word-wrap: normal
+@media screen and (max-width: 768px) {
+    .Projs {
+        width: calc(50% - 20px); /* Two items per row */
     }
 }
 
-@media print, screen and (max-width: 480px) {
-    body {
-        padding:15px
-    }
-
-    .downloads {
-        width: 99%
-    }
-
-    .downloads li,.downloads li+li+li {
-        width: 33%
+@media screen and (max-width: 480px) {
+    .Projs {
+        width: 100%; /* One item per row */
     }
 }
 
