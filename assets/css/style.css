@@ -377,6 +377,11 @@ h3 {
     height: 800px;
   }
 
+.container h2{
+    color: #BDC3C7  
+    margin: 15px 0 0 0;
+}
+
 .Projs{
   width: 340px;
   height: 245px;
@@ -401,10 +406,6 @@ h3 {
   object-fit: cover;
 }
 
-.Projs h2{
-    color: #BDC3C7  
-    margin: 15px 0 0 0;
-}
 
 .image{
     width: 101%;
@@ -535,6 +536,7 @@ p {
     font-family: "Open Sans", serif;
     font-weight: 400;
     font-style: normal;
+    margin: 0 10px 0 0;
 }
 
 a {
