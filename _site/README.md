@@ -45,7 +45,7 @@ Honorably completed courses in both Math and Physics,  demonstrating an understa
       <img src="assets/Screenshot 2025-05-15 190303.png" alt="MetroBuddy">
       <div class="image"></div>
     </a>
-    <div class="desc2"> MetroBuddy is an application made to provide support for students, by students. With broad categories ranging from emotional support to physical wellbeing & money troubles, the user can get just the information they need. The program is developed using React & Tailwind. I acted as Lead Developer during the project.
+    <div class="desc2"> MetroBuddy is an application made to provide support for students, by students. With broad categories ranging from emotional support to wellbeing & money troubles, the user can get just the information they need. The program is developed using React & Tailwind. Lead Developer.
      </div>
   </div>
 
